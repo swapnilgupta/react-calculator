@@ -1,2 +1,4 @@
 node_modules
-\npublic/bundle.js
+dist
+.DS_Store
+*.local
